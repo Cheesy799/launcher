@@ -2,7 +2,7 @@
   "name": "Minimal Launcher",
   "short_name": "Launcher",
   "description": "A minimal 6-app phone launcher",
-  "start_url": "./launcher.html",
+  "start_url": "./index.html",
   "display": "fullscreen",
   "orientation": "portrait",
   "background_color": "#0a0a0f",
